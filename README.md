@@ -1,20 +1,21 @@
 
 <h1>Este Projeto Foi Criado Para Simular Um Sistema de Uma Biblioteca.</h1>
-<h2>Funcionalidades:</h2>
-<h3>
--Registra Empréstimos de Livros.
-<br>
--Edita os Registros.
-<br>
--Muda o Status de "Pendente" para "Devolvido" de Acordo com a Data de Devolução.
-<br>
--Apresenta os Registros da Base de Dados no phpMyAdmin.
-<br>
--Filtra e Pesquisa os Registros.
-<br>
-</h3>
 
-<h1> Previews:</h1>
+# Funcionalidades
+
+### -Registra Empréstimos de Livros.
+
+### -Edita os Registros.
+
+### -Muda o Status de "Pendente" para "Devolvido" de Acordo com a Data de Devolução.
+
+### -Apresenta os Registros da Base de Dados no phpMyAdmin.
+
+### -Filtra e Pesquisa os Registros.
+
+
+
+<h1> Telas</h1>
 <div>
 <h2>Tela Inicial</h2>
 
